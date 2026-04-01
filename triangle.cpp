@@ -6,7 +6,6 @@ using namespace std;
 // проверка на существование треугольника
 bool isTriangle(double a, double b, double c) {
     return (a+b>c) && (a+c>b) && (b+c>a);
-
 }
 
 // проверка на равнобедренность
@@ -52,6 +51,5 @@ int main() {
     } else {
         cout << "Треугольник не равнобедренный\n";
     }
-
     return 0;
 }
