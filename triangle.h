@@ -1,7 +1,7 @@
 #ifndef TRIANGLE_H
 #define TRIANGLE_H
 
-// проверка на сущ треугольника
+// проверка на существование треугольника
 bool isTriangle(double a,double , double c);
 
 // проверка на равнобедренность 
