@@ -2,7 +2,7 @@
 #define TRIANGLE_H
 
 // проверка на существование треугольника
-bool isTriangle(double a,double , double c);
+bool isTriangle(double a, double b, double c);
 
 // проверка на равнобедренность треугольника
 bool isTriangleRB(double a, double b, double c);
