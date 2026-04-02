@@ -4,7 +4,7 @@
 // проверка на существование треугольника
 bool isTriangle(double a,double , double c);
 
-// проверка на равнобедренность 
+// проверка на равнобедренность треугольника
 bool isTriangleRB(double a, double b, double c);
 
 // вычисление периметра
