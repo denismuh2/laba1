@@ -2,6 +2,8 @@
 #include "triangle.h"
 #include <cmath>
 
+// коментарий!!!! :)
+
 using namespace std;
 
 // проверка на существование треугольника
