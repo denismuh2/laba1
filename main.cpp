@@ -5,11 +5,8 @@ using namespace std;
 int main() {
     double dlina;
     double shirina;
-<<<<<<< HEAD
-=======
 
 //"комментарий"
->>>>>>> Galin
     
     cout << "Vvedite dlinu: ";
     cin >> dlina;
